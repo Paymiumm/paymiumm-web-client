@@ -1,0 +1,22 @@
+.logo {
+  border-radius: 30px;
+  height: 70px;
+}
+
+li a {
+  margin: 2rem;
+  font-size: 16pt;
+  font-weight: 100;
+  color: #ffffff;
+}
+
+li a:hover {
+  background: none;
+  text-shadow: 2px 2px #cccccc;
+  /*font-weight: 300;*/
+}
+
+.navbar {
+  background: #24292e;
+  border-radius: 0px;
+}
